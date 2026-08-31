@@ -1,6 +1,7 @@
 # Lab 2 – Digital Image Processing
 
 **Name:** Mona Khalid Bamasoud
+
 **Course:** Digital Image Processing
 
 ## Lab Description
